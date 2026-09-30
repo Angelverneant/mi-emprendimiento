@@ -1,7 +1,7 @@
-# [Nombre del emprendimiento] — Sitio web
+# Andjelica Braids Studio — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
-Incluye landing, blog y prototipo de tienda online.
+Estudio especializado en trenzado profesional, peinados protectores y venta de insumos para el cuidado del cabello afro y natural.
+Incluye landing page, blog educativo y catálogo/tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
 > Instrucciones y guías: [evaluacion/](evaluacion/README.md)
@@ -35,4 +35,4 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Uso de IA
 
-- **[Herramienta]:** para qué la usé y qué ajusté yo.
+- **Antigravity AI (Gemini 3.7 Flash):** Utilizado para estructurar y redactar la definición de requerimientos de la Fase 1 (Brief, Proto-persona, Objetivos y Funcionalidades, Stack de Tecnologías y Arquitectura de la Información con User Flows y Categorías), adaptado específicamente a mi emprendimiento real de trenzado capilar (*Andjelica Braids Studio*).
