@@ -6,7 +6,7 @@
 
 ![Avatar de Valeria](img/valeria.jpg)
 
-**Valeria Méndez, 24 años.** Estudiante universitaria de Publicidad y creadora de contenido en redes sociales. Vive en un departamento en Providencia, Santiago.
+**Valeria Méndez, 24 años.** Estudiante universitaria de Publicidad y creadora de contenido en redes sociales. Vive en un departamento en Valparaíso.
 
 > "Quiero hacerme trenzas hermosas y duraderas sin que me maltraten el cuero cabelludo ni tener que esperar horas a que me respondan un precio por mensaje directo."
 

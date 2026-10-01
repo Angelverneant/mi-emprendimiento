@@ -4,7 +4,7 @@
 
 ## El emprendimiento
 
-**Andjelica Braids Studio** es un emprendimiento real de estilismo capilar y trenzado profesional (trenzadora) ubicado en Santiago, Chile. Se especializa en la realización de peinados protectores (knotless box braids, cornrows, goddess braids, twist y trenzas pegadas) y en la venta de insumos especializados para el trenzado (extensiones de kanekalon, mousses fijadores, geles de bordes / edge control, aceites nutritivos y gorros de satén). Actualmente gestiona sus reservas y ventas de forma manual a través de Instagram y WhatsApp.
+**Andjelica Braids Studio** es un emprendimiento real de estilismo capilar y trenzado profesional (trenzadora) ubicado en Valparaíso, Chile. Se especializa en la realización de peinados protectores (knotless box braids, cornrows, goddess braids, twist y trenzas pegadas) y en la venta de insumos especializados para el trenzado (extensiones de kanekalon, mousses fijadores, geles de bordes / edge control, aceites nutritivos y gorros de satén). Actualmente gestiona sus reservas y ventas de forma manual a través de Instagram y WhatsApp.
 
 ## Propuesta de valor
 
@@ -12,7 +12,7 @@ Ayudamos a mujeres y hombres que desean resaltar y proteger su cabello natural a
 
 ## Objetivo del sitio
 
-- **Principal:** Centralizar y agilizar la reserva de citas de trenzado y la venta online de insumos y productos de cuidado capilar para clientes en Santiago y regiones.
+- **Principal:** Centralizar y agilizar la reserva de citas de trenzado y la venta online de insumos y productos de cuidado capilar para clientes en Valparaíso, Viña del Mar y regiones.
 - **Secundario:** Educar a la comunidad mediante un blog sobre la salud del cabello trenzado y captar correos electrónicos de clientes interesadas a cambio de una guía de cuidado y un 10% de descuento.
 
 ## Referentes
