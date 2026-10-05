@@ -12,7 +12,7 @@ Ayudamos a mujeres y hombres que desean resaltar y proteger su cabello natural a
 
 ## Objetivo del sitio
 
-- **Principal:** Centralizar y agilizar la reserva de citas de trenzado y la venta online de insumos y productos de cuidado capilar para clientes en Valparaíso, Viña del Mar y regiones.
+- **Principal:** Centralizar y agilizar la reserva de citas de trenzado y la venta online de insumos y productos de cuidado capilar para clientas en la Región de Valparaíso y envíos a todo Chile.
 - **Secundario:** Educar a la comunidad mediante un blog sobre la salud del cabello trenzado y captar correos electrónicos de clientes interesadas a cambio de una guía de cuidado y un 10% de descuento.
 
 ## Referentes
