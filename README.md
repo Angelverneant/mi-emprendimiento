@@ -35,4 +35,4 @@ Incluye landing page, blog educativo y catálogo/tienda online.
 
 ## Uso de IA
 
-- **Antigravity AI (Gemini 3.7 Flash):** Utilizado para estructurar y redactar la definición de requerimientos de la Fase 1 (Brief, Proto-persona, Objetivos y Funcionalidades, Stack de Tecnologías y Arquitectura de la Información con User Flows y Categorías), adaptado específicamente a mi emprendimiento real de trenzado capilar (*Andjelica Braids Studio*).
+- **Antigravity AI (Gemini 3.7 Flash):** Utilizado para estructurar y redactar la definición de requerimientos de la Fase 1 (Brief, Proto-persona, Objetivos y Funcionalidades, Stack de Tecnologías y Arquitectura de la Información con User Flows y Categorías), así como la construcción integral de las especificaciones de la Fase 2 (Moodboard, Calco de Componentes, Paleta cromática con validación de contraste WCAG AA y Tipografía, el Design System oficial en `DESIGN.md`, la Spec de Diseño con prompts para Google Stitch y la Spec de Desarrollo con arquitectura técnica y criterios de aceptación), adaptado específicamente al emprendimiento de trenzado capilar (*Andjelica Braids Studio*).
