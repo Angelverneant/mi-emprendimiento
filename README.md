@@ -31,8 +31,12 @@ Incluye landing page, blog educativo y catálogo/tienda online.
 
 ## Prototipo
 
-[Aquí va el link de tu proyecto de Stitch en la Fase 3]
+- **Proyecto en Google Stitch:** [Andjelica Braids Studio en Stitch](https://stitch.withgoogle.com/projects/andjelica-braids-studio-valparaiso)
+- **Documento de QA y Capturas:** [Prototipo y QA (docs/11-qa.md)](docs/11-qa.md)
 
 ## Uso de IA
 
-- **Antigravity AI (Gemini 3.7 Flash):** Utilizado para estructurar y redactar la definición de requerimientos de la Fase 1 (Brief, Proto-persona, Objetivos y Funcionalidades, Stack de Tecnologías y Arquitectura de la Información con User Flows y Categorías), así como la construcción integral de las especificaciones de la Fase 2 (Moodboard, Calco de Componentes, Paleta cromática con validación de contraste WCAG AA y Tipografía, el Design System oficial en `DESIGN.md`, la Spec de Diseño con prompts para Google Stitch y la Spec de Desarrollo con arquitectura técnica y criterios de aceptación), adaptado específicamente al emprendimiento de trenzado capilar (*Andjelica Braids Studio*).
+- **Antigravity AI (Gemini 3.7 Flash):** Utilizado de manera integral a lo largo de las tres fases del proyecto:
+  1. **Fase 1 (Requerimientos):** Estructuración y redacción del Brief, Proto-persona (Valeria Manríquez), Objetivos y Funcionalidades (base y propias), Stack de Tecnologías y Arquitectura de la Información (Sitemap, User Flows y Categorías).
+  2. **Fase 2 (Specs):** Construcción del Moodboard, Calco de Componentes, Paleta cromática con validación WCAG AA, Tipografía, el Design System oficial en `DESIGN.md` (validado con `@google/design.md`), Spec de Diseño con prompts detallados por pantalla y Spec de Desarrollo con arquitectura técnica y criterios de aceptación.
+  3. **Fase 3 (Prototipo y QA):** Generación de prompts para Google Stitch, revisión comparativa de Spec vs. Prototipo, documentación de brechas y correcciones iterativas en `docs/11-qa.md`, validación de recorridos de User Flows y redacción de la reflexión de coherencia respecto al brief y las necesidades de la usuaria.
