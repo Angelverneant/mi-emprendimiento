@@ -31,7 +31,7 @@ Incluye landing page, blog educativo y catálogo/tienda online.
 
 ## Prototipo
 
-- **Proyecto en Google Stitch:** [Andjelica Braids Studio en Stitch](https://stitch.withgoogle.com/projects/andjelica-braids-studio-valparaiso)
+- **Proyecto en Google Stitch:** [Andjelica Braids Studio en Stitch](https://stitch.withgoogle.com/projects/967158101842086540)
 - **Documento de QA y Capturas:** [Prototipo y QA (docs/11-qa.md)](docs/11-qa.md)
 
 ## Uso de IA
