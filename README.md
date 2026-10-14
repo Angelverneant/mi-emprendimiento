@@ -1,38 +1,55 @@
 # Andjelica Braids Studio — Sitio web
 
-Estudio especializado en trenzado profesional, peinados protectores y venta de insumos para el cuidado del cabello afro y natural.
-Incluye landing page, blog educativo y catálogo/tienda online.
+Estudio boutique especializado en trenzado profesional, peinados protectores y venta de insumos para el cuidado del cabello afro y natural en Valparaíso, Chile.  
+Incluye **landing page**, **blog educativo** y **catálogo/tienda online**.
 
-> Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
-> Instrucciones y guías: [evaluacion/](evaluacion/README.md)
+> 🎓 **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC UC)**  
+> 📌 **Entrega Fase 3:** Prototipo referencial en Google Stitch y Aseguramiento de Calidad (QA).  
+> 🚀 **Acceso directo al documento de entrega:** [📁 docs/11-qa.md (QA, User Flows y Coherencia)](docs/11-qa.md)  
+> 🎨 **Pwojè / Proyecto interactivo en Google Stitch:** [Ver en Google Stitch](https://stitch.withgoogle.com/projects/967158101842086540)  
+> 📖 Pauta y enunciado: [evaluacion/README.md](evaluacion/README.md)
 
-## Documentación
+---
 
-**Fase 1 — Definición de requerimientos**
+## 🎨 Fase 3 — Prototipo Referencial y QA
 
-- [Brief](docs/01-brief.md)
-- [Proto-persona](docs/02-proto-personas.md)
-- [Funcionalidades](docs/03-funcionalidades.md)
-- [Tecnologías](docs/04-tecnologias.md)
-- [Arquitectura de la información](docs/05-arquitectura.md)
+- **Proyecto interactivo en Google Stitch:** [https://stitch.withgoogle.com/projects/967158101842086540](https://stitch.withgoogle.com/projects/967158101842086540)
+- **Documento completo de entrega:** [docs/11-qa.md](docs/11-qa.md) *(contiene la tabla de revisión Spec vs. Prototipo, mejoras aplicadas, recorrido de los 2 User Flows y reflexión de coherencia).*
 
-**Fase 2 — Construcción de specs**
+### Vista previa de pantallas (Desktop y Mobile)
 
-- [Design system (DESIGN.md)](DESIGN.md)
-- [Moodboard](docs/06-moodboard.md)
-- [Componentes](docs/07-componentes.md)
-- [Color y tipografía](docs/08-color-tipografia.md)
-- [Spec de diseño](docs/09-spec-diseno.md)
-- [Spec de desarrollo](docs/10-spec-desarrollo.md)
+| Pantalla | Versión Desktop | Versión Mobile |
+|---|---|---|
+| **Landing Page** | ![Landing desktop](docs/img/prototipo-landing-desktop.png) | ![Landing mobile](docs/img/prototipo-landing-mobile.png) |
+| **Tienda (Catálogo)** | ![Tienda desktop](docs/img/prototipo-tienda-desktop.png) | ![Tienda mobile](docs/img/prototipo-tienda-mobile.png) |
+| **Ficha de Producto** | ![Ficha desktop](docs/img/prototipo-ficha-desktop.png) | ![Ficha mobile](docs/img/prototipo-ficha-mobile.png) |
+| **Carrito de Compras** | ![Carrito desktop](docs/img/prototipo-carrito-desktop.png) | ![Carrito mobile](docs/img/prototipo-carrito-mobile.png) |
+| **Blog Educativo** | ![Blog desktop](docs/img/prototipo-blog-desktop.png) | ![Blog mobile](docs/img/prototipo-blog-mobile.png) |
+| **Artículo de Blog** | ![Artículo desktop](docs/img/prototipo-articulo-desktop.png) | ![Artículo mobile](docs/img/prototipo-articulo-mobile.png) |
 
-**Fase 3 — Prototipo referencial**
+---
 
-- [Prototipo y QA](docs/11-qa.md)
+## 📚 Índice de Documentación Completa
 
-## Prototipo
+### Fase 1 — Definición de requerimientos
+- [01. Brief del emprendimiento](docs/01-brief.md)
+- [02. Proto-persona principal](docs/02-proto-personas.md)
+- [03. Objetivos y funcionalidades (base y propias)](docs/03-funcionalidades.md)
+- [04. Tecnologías y restricciones](docs/04-tecnologias.md)
+- [05. Arquitectura de información, user flows y categorías](docs/05-arquitectura.md)
 
-- **Proyecto en Google Stitch:** [Andjelica Braids Studio en Stitch](https://stitch.withgoogle.com/projects/967158101842086540)
-- **Documento de QA y Capturas:** [Prototipo y QA (docs/11-qa.md)](docs/11-qa.md)
+### Fase 2 — Construcción de specs
+- [Design system oficial (DESIGN.md)](DESIGN.md)
+- [06. Moodboard y referencias](docs/06-moodboard.md)
+- [07. Calco de componentes](docs/07-componentes.md)
+- [08. Paleta cromática y tipografía](docs/08-color-tipografia.md)
+- [09. Spec de diseño y prompts para Stitch](docs/09-spec-diseno.md)
+- [10. Spec de desarrollo y arquitectura técnica](docs/10-spec-desarrollo.md)
+
+### Fase 3 — Prototipo referencial y QA
+- [11. Prototipo, QA, User Flows y Coherencia](docs/11-qa.md)
+
+---
 
 ## Uso de IA
 
